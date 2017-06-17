@@ -45,6 +45,8 @@ Pull requests are welcome. Thank you. 💙
 
 - [linear digressions 🎙️](http://lineardigressions.com/)
 
+- [this week in machine learning and ai 🎙️](https://twimlai.com/)
+
 
 # startups
 
